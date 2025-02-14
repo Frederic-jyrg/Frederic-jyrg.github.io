@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>JaarJaar</title>
+    <title>JaarJaar</title>
 </head>
 <body>
-<h1>JaarJaar</h1>
-<h1>Tell a line, in your language or not, continue the story...</h1>
-<p>Previous last line is:</p>
-<p>New Line Entry:</p>
-<p>
-Started, 2/14/2025, story on-going
-</p>
-Information about JaarJaar project: <br>
-<p><a href="https://github.com/Frederic-jyrg/jaarjaar">https://github.com/Frederic-jyrg/jaarjaar</a></p>
-</p>
+    <h1>JaarJaar</h1>
+    <h1>Tell a line, in your language or not, continue the story...</h1>
+    <p>Previous last line is: {{ last_line }}</p>
+
+    <form method="POST">
+        <label for="new_line">New Line Entry:</label><br>
+        <textarea id="new_line" name="new_line" rows="4" cols="50"></textarea><br>
+        <button type="submit">Submit Line</button>
+    </form>
+
+    <p>
+        Started, 2/14/2025, story on-going
+    </p>
+
+    <p>
+        Information about JaarJaar project: <br>
+        <a href="https://github.com/Frederic-jyrg/jaarjaar">https://github.com/Frederic-jyrg/jaarjaar</a>
+    </p>
+
 </body>
 </html>
