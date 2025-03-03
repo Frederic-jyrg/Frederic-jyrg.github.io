@@ -1,4 +1,4 @@
-# jaarlaar.github.io
+# jaarjaar.github.io
 
 JaarJaar project wiki: [JaarJaar/wiki](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/wiki)
 
