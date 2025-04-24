@@ -8,6 +8,6 @@ Link to the current predev prototype experiment online [here](https://haka.pytho
 3/16/2025 status of entries of the predev story: [--->](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/blob/main/story316.txt) <br>
 example of reduction of the data: [--->](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/blob/main/story316-reduced.txt) <br>
 4/24/2025 status of entries of the predev story: [--->](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/blob/main/story424.txt) <br>
-example of reduction of the data: [--->](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/blob/main/story424-reduced.txt) <br>
+example of reduction of the data: [--->](https://github.com/Frederic-jyrg/Frederic-jyrg.github.io/blob/main/story424-reduced.pdf) <br>
 
 
